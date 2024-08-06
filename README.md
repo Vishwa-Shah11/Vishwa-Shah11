@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwa-Shah11
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Java Springboot
+- 🌱 I’m Java Springboot developer
 
 
 <!---
